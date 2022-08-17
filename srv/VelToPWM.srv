@@ -1,0 +1,6 @@
+float32 linear_vel
+float32 angular_vel
+string bot_id
+---
+float32 rightpwm
+float32 leftpwm

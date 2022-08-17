@@ -1,0 +1,10 @@
+calibration_date: 2022-07-21 21:10:13.878567
+low_forward_pwm: 0
+low_backward_pwm: 0
+max_lin_vel_forward: 0.19266
+max_lin_vel_backward: -0.18913
+max_ang_vel: 0.50893
+min_ang_vel: -0.47199
+bot_id: 8
+pwm_left: -9.020253534200918 0.10968793073974714 177.51864298301945
+pwm_right: -9.020253534200918 0.10968793073974714 177.51864298301945

@@ -1,0 +1,8 @@
+float32 stamp
+float32 cur_x
+float32 cur_y
+float32 cur_theta
+---
+float32 goal_x
+float32 goal_y
+float32 goal_theta
